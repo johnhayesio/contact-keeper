@@ -1,4 +1,5 @@
 import React, { useState, useContext, useEffect } from "react";
+import { Link } from "react-router-dom";
 import AlertContext from "../../context/alert/alertContext";
 import AuthContext from "../../context/auth/authContext";
 import Alert from "../layout/Alert";
@@ -72,6 +73,9 @@ function Login(props) {
           </label>
           <Alert />
         </div>
+        <Link to="/register">
+          <p className="mt text-primary">Don't have an account?</p>
+        </Link>
         <input
           type="submit"
           value="Login"
