@@ -1,6 +1,6 @@
 # Contact Keeper
 
-> Fullstack React (with Hooks) application, which is an app to store personal and professional contact information
+> Fullstack React (with Hooks and Context API) application, which is an app to store personal and professional contact information
 
 ## Usage
 
