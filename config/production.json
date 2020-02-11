@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://johnru:GL6CfaNZZjMH94c@contactkeeper-nuqzn.mongodb.net/ContactKeeper?retryWrites=true&w=majority",
-  "jwtSecret": "kljksdfajoijewkajsd"
+  "mongoURI": "",
+  "jwtSecret": "fsdakjfldasjfkljdsjfldskldjf"
 }
